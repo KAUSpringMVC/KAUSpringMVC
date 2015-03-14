@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>
-	Hello JAESHIM!
+	HELLO
 </h1>
 <input type ="button" id="testBtn" name="testBtn" value="testbtn">
 </body>
