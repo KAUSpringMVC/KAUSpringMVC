@@ -2,20 +2,20 @@
 <%@ page session="false" %>
 <html>
 <head>	
-	<title>Home</title>
+	<title>Home JINSUB!</title>
 </head>
 <body>
 <h1>
-	HELLO
+	HELLO JINSUB!
 </h1>
-<input type ="button" id="testBtn" name="testBtn" value="testbtn">
+<input type ="button" id="testBtn" name="testBtn" value="testbtn" onclick="testBtn_onClick()">
 </body>
 </html>
 
  <script>
  
  function testBtn_onClick(){
-	alert("테스트"); 
+	alert("how was your meeting?"); 
  }
 	
 	
