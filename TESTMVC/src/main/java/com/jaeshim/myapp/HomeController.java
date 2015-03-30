@@ -21,6 +21,7 @@ public class HomeController {
 	
 	
 	//hi my name is...
+	//hi
 	/**
 	 * Simply selects the home view to render by returning its name.
 	 */
