@@ -19,14 +19,7 @@ public class HomeController {
 
 	//dev fix
 	//dev fix2
-<<<<<<< HEAD
 	//dev fix3
-	//dev fix4
-	
-	
-=======
-	//dev fix5
->>>>>>> dev
 	
 	/**
 	 * Simply selects the home view to render by returning its name.
