@@ -1,0 +1,9 @@
+diff a/TESTMVC/src/main/java/com/jaeshim/myapp/HomeController.java b/TESTMVC/src/main/java/com/jaeshim/myapp/HomeController.java	(rejected hunks)
+@@ -17,6 +17,7 @@
+ @Controller
+ public class HomeController {	
+ 
++	//dev1
+ 	
+ 	/**
+ 	 * Simply selects the home view to render by returning its name.
