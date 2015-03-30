@@ -20,8 +20,6 @@ public class HomeController {
 	
 	
 	
-	//hi my name is...
-	//hi
 	/**
 	 * Simply selects the home view to render by returning its name.
 	 */
@@ -30,5 +28,8 @@ public class HomeController {
 		model.addAttribute("greeting","æ»≥Á«œººø‰");		
 		return "home";
 	}
+	
+	
+	//FINAL DEV
 	
 }
