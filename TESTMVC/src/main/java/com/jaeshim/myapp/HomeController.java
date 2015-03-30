@@ -15,11 +15,8 @@ import org.springframework.web.bind.annotation.RequestMethod;
  * Handles requests for the application home page.
  */
 @Controller
-public class HomeController {	
+public class HomeController {
 
-	//dev fix
-	//dev fix2
-	//dev fix3
 	
 	/**
 	 * Simply selects the home view to render by returning its name.
