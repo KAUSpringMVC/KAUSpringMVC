@@ -19,6 +19,8 @@ public class HomeController {
 
 	//dev1
 	
+	
+	//hi
 	/**
 	 * Simply selects the home view to render by returning its name.
 	 */
