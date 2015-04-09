@@ -17,20 +17,10 @@ import org.springframework.web.bind.annotation.RequestMethod;
 @Controller
 public class HomeController {
 
-	//SKT
-	
-	
-	//KT
-	/**
-	 * Simply selects the home view to render by returning its name.
-	 */
-	@RequestMapping(value = "/hello.do", method = RequestMethod.GET)
+	@RequestMapping(value = "/", method = RequestMethod.GET)
 	public String home(Model model) {
 		model.addAttribute("greeting","æ»≥Á«œººø‰");		
 		return "home";
-	}
-	
-	
-	//FINAL DEV
+	}	
 	
 }

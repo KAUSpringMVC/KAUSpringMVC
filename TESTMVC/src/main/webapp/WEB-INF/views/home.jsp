@@ -11,6 +11,8 @@
 </h1>
 <input type ="button" id="testBtn" name="testBtn" value="testbtn" onclick="testBtn_onClick()">
 
+<a href="login">MOVE</a>
+
 <p>${greeting}
 </body>
 </html>
