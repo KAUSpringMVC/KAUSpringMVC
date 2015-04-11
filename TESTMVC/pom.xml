@@ -32,19 +32,34 @@
 			<artifactId>spring-webmvc</artifactId>
 			<version>${org.springframework-version}</version>
 		</dependency>
+<<<<<<< HEAD
 
 
+=======
+		
+		
+		
+>>>>>>> dev
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
 			<version>5.1.35</version>
 		</dependency>
+<<<<<<< HEAD
 
+=======
+>>>>>>> dev
 		<dependency>
 			<groupId>commons-dbcp</groupId>
 			<artifactId>commons-dbcp</artifactId>
 			<version>1.4</version>
 		</dependency>
+<<<<<<< HEAD
+=======
+		
+		
+				
+>>>>>>> dev
 		<!-- AspectJ -->
 		<dependency>
 			<groupId>org.aspectj</groupId>
